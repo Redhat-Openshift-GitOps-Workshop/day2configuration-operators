@@ -4,3 +4,6 @@ kind: Kustomization
 
 bases:
 - ../../base
+
+resources:
+- tekton_cluster_roles.yaml
