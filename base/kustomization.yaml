@@ -7,4 +7,4 @@ resources:
   - operatorgroup/logging.yaml
   - subscription/elasticsearch.yaml
   - subscription/logging.yaml
-  - subscription/redhat_pipelines.yaml
+  # - subscription/redhat_pipelines.yaml
